@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/send.png</file>
+        <file>images/GS.png</file>
+        <file>images/GSLite.png</file>
+        <file>images/GSMax.jpg</file>
+        <file>images/GSPro.jpg</file>
+        <file>images/GSUltra.jpg</file>
+        <file>images/BG1.png</file>
+        <file>images/user_avatar.png</file>
+        <file>images/删除会话.png</file>
+        <file>images/新建会话.png</file>
+        <file>images/whitebg.png</file>
+        <file>images/会话.png</file>
+    </qresource>
+</RCC>
